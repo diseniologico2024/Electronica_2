@@ -47,6 +47,7 @@ https://github.com/diseniologico2024/Electronica-2/blob/main/ejemplo.ino
 Te compartimos dos informes de años anteriores para tomarlos como referencia.
 Los informes pertenecen a Giménez Córdoba Ignacio Augusto, Nieva Gonzalo Martin, Gray Garmendia Augusto, Macias María del Carmen.
 
-
+https://github.com/diseniologico2024/Electronica_2/blob/main/LAB%20N%C2%B01_Gray_Mac%C3%ADas.pdf
+https://github.com/diseniologico2024/Electronica_2/blob/main/LABORATORIO%201%20Gimenez%20nieva.pdf
 
 
