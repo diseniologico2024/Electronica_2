@@ -1,4 +1,4 @@
-# Electronica 2
+# Electrónica 2
 En este repositorio encontrarás los links para instalar las herramientas necesarias para el laboratorio.
 
 ### Te recordamos el reglamento para aprobar el laboratorio:
@@ -40,7 +40,13 @@ https://www.arduino.cc/
 Instalación de Arduino IDE:
 https://arduino.cl/como-instalar-arduino-en-windows/
 
+En el repositorio de dejamos un ejemplo básico en donde se implementa una AND y una OR utilizando 4 entradas y 2 salidas. 
+https://github.com/diseniologico2024/Electronica-2/blob/main/ejemplo.ino
+
 # Informe
 Te compartimos dos informes de años anteriores para tomarlos como referencia.
+Los informes pertenecen a Giménez Córdoba Ignacio Augusto, Nieva Gonzalo Martin, Gray Garmendia Augusto, Macias María del Carmen.
+
+
 
 
