@@ -19,9 +19,9 @@ Respecto al informe:
 Deberá incluir: objetivos principales y específicos, diseño, desarrollo, resultados, costo total del proyecto, discusión y conclusiones, anexos con los planos circuitales reales y hojas de datos de los componentes utilizados.
 La nota final del laboratorio estará sujeta al cumplimiento de los puntos precedentes.
 
-# Simulación:
+# Simulación
 Para la simulación utilizaremos la aplicación gratuita Tinkercad. 
-**(Recuerda que si sabes manejar otro simulador puedes hacerlo sin problema).
+*Recuerda que si sabes manejar otro simulador puedes hacerlo sin problema*.
 
 Tinkercad:
 https://www.tinkercad.com/
@@ -50,4 +50,14 @@ Los informes pertenecen a Giménez Córdoba Ignacio Augusto, Nieva Gonzalo Marti
 https://github.com/diseniologico2024/Electronica_2/blob/main/LAB%20N%C2%B01_Gray_Mac%C3%ADas.pdf
 https://github.com/diseniologico2024/Electronica_2/blob/main/LABORATORIO%201%20Gimenez%20nieva.pdf
 
+
+# Compra de placa: 
+Si estas interesado en comprar una placa Arduino te recomendamos la placa Arduino UNO O NANO. 
+El Arduino NANO es la placa más económica que trae programador incluido.
+
+![image](https://github.com/user-attachments/assets/1ef5b283-2062-4e70-a123-4003bb855e08)
+
+Te dejamos un link de mercado libre, esta publicación tiene envío FULL. 
+Sería conveniente ponerte en contacto con tus compañeros para comprar varias unidades y obtener envío gratis: 
+https://articulo.mercadolibre.com.ar/MLA-1551741582-placa-rduino-nano-v3-atmel-atmega328p-usb-c-ch340-16mhz-5v-_JM?vip_filters=shipping%3Afulfillment#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=fc7d956d-a600-49aa-b9c9-06431c05c380
 
