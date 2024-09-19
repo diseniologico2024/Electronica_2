@@ -41,7 +41,7 @@ Instalación de Arduino IDE:
 https://arduino.cl/como-instalar-arduino-en-windows/
 
 En el repositorio de dejamos un ejemplo básico en donde se implementa una AND y una OR utilizando 4 entradas y 2 salidas. 
-https://github.com/diseniologico2024/Electronica-2/blob/main/ejemplo.ino
+https://github.com/diseniologico2024/Electronica_2/blob/main/Ejemplos%20Arduino/ejemplo.ino
 
 # Informe
 Te compartimos dos informes de años anteriores para tomarlos como referencia.
